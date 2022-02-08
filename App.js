@@ -33,11 +33,7 @@ export default function App() {
         <View>
           <Text>Resultados</Text>
         </View>
-
-        <View>
-          <Text>FOOTER</Text>
-          <Button title='Calcular'/>
-        </View>
+        <Footer calcular ={calcular}/>
     </>
   );
 }
