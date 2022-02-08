@@ -1,6 +1,6 @@
 //const PRIMARY_COLOR = '#009803';
 
 export default{
-    PRIMARY_COLOR : '#FFD3B5',
-    PRIMARY_COLOR_DARK : '#E6FFB5'
+    PRIMARY_COLOR : '#3F5769',
+    PRIMARY_COLOR_DARK : '#F3F399'
 }
