@@ -60,7 +60,7 @@ export default function App() {
         />
       </SafeAreaView>
 
-      <Results errorM={errorM}/>
+      <Results errorM={errorM} total={total}/>
       <Footer calcular={calcular} />
     </>
   );
